@@ -1,0 +1,4 @@
+com/amazonaws/hbase/datasink/KafkaDataSinkImpl.class
+com/amazonaws/hbase/datasink/KafkaProducerFactory.class
+com/amazonaws/hbase/datasink/KafkaAdminUtil.class
+com/amazonaws/hbase/datasink/KafkaConfigurationUtil.class

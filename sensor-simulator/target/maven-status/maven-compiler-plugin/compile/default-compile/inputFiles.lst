@@ -1,0 +1,8 @@
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/model/AttributeGroup.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/model/Attribute.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/HbaseSensorSink.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/TrafficRecord.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/Main.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/model/Row.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/Configuration.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/sensor-simulator/src/main/java/com/amazonaws/examples/sensorsimulator/DestinationSink.java

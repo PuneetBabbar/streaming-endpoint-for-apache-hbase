@@ -6,6 +6,17 @@
 	<artifactId>kafka-sink</artifactId>
 	<name>kafka-sink</name>
 
+   <!-- <repositories>
+      <repository>
+         <id>mavenCentral</id>
+         <url>https://repo1.maven.org/maven2/</url>
+      </repository>
+      <repository>
+         <id>cloudera</id>
+         <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+      </repository>
+   </repositories> -->
+
 	<parent>
 		<groupId>com.amazonaws.awslabs</groupId>
 		<artifactId>hbase-custom-replication-endpoint</artifactId>
@@ -44,14 +55,15 @@
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
 			<artifactId>kafka-clients</artifactId>
-			<version>2.4.1</version>
+			<version>2.6.0</version>
 			<classifier>test</classifier>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
 			<artifactId>kafka-clients</artifactId>
-			<version>2.4.1</version>
+			<version>2.6.0</version>
+			<!--<scope>provided</scope> -->
 		</dependency>
 		<dependency>
 			<groupId>com.confluex</groupId>
@@ -68,14 +80,14 @@
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
 			<artifactId>kafka_2.12</artifactId>
-			<version>2.4.1</version>
+			<version>2.6.0</version>
 			<classifier>test</classifier>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.kafka</groupId>
 			<artifactId>kafka_2.12</artifactId>
-			<version>2.4.1</version>
+			<version>2.6.0</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
@@ -104,6 +116,16 @@
 						<goals>
 							<goal>shade</goal>
 						</goals>
+						<configuration>
+							<relocations>
+								<relocation>
+									<pattern>org.apache.kafka</pattern>
+									<shadedPattern>com.amazonaws.hbase.org.apache.kafka</shadedPattern>
+									<excludes>
+									</excludes>
+								</relocation>
+							</relocations>
+							</configuration>
 					</execution>
 				</executions>
 			</plugin>

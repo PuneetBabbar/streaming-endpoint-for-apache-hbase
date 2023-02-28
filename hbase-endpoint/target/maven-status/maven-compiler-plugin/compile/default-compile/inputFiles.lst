@@ -1,0 +1,15 @@
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/serde/HBaseWALEntryDeserializer.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/StreamingReplicationEndpoint.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/DataSinkFactory.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/serde/HBaseWALEditDeserializer.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/UUIDHelper.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/model/HBaseWALKey.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/ConfigurationUtil.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/model/HBaseWALEntry.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/serde/HBaseCellDeserializer.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/DataSink.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/model/HBaseWALEdit.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/model/MVCCWALEntry.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/serde/HBaseWALKeyDeserializer.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/CellUtil.java
+/Users/pbbabbar/Amazon/projects/vodafone/solstice/code/streaming-endpoint-for-apache-hbase/hbase-endpoint/src/main/java/com/amazonaws/hbase/model/HBaseCell.java

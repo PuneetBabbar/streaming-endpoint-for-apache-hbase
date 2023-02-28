@@ -1,0 +1,5 @@
+com/amazonaws/hbase/datasink/KinesisDataSinkImpl.class
+com/amazonaws/hbase/datasink/KinesisDataSinkImpl$2.class
+com/amazonaws/hbase/datasink/KinesisDataSinkImpl$1.class
+com/amazonaws/hbase/datasink/KinesisProducerFactory.class
+com/amazonaws/hbase/datasink/KinesisConfigurationUtil.class

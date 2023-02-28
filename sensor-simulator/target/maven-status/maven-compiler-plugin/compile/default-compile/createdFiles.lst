@@ -1,0 +1,10 @@
+com/amazonaws/examples/sensorsimulator/DestinationSink.class
+com/amazonaws/examples/sensorsimulator/Main.class
+com/amazonaws/examples/sensorsimulator/HbaseSensorSink.class
+com/amazonaws/examples/sensorsimulator/model/Attribute.class
+com/amazonaws/examples/sensorsimulator/Main$RecordProducer.class
+com/amazonaws/examples/sensorsimulator/model/AttributeGroup.class
+com/amazonaws/examples/sensorsimulator/TrafficRecord.class
+com/amazonaws/examples/sensorsimulator/model/Row.class
+com/amazonaws/examples/sensorsimulator/Configuration.class
+com/amazonaws/examples/sensorsimulator/HbaseSensorSink$DrainThread.class

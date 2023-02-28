@@ -1,0 +1,3 @@
+com/amazonaws/hbase/lambda/RecordValidator.class
+com/amazonaws/hbase/lambda/exceptions/InvalidInAppRecordException.class
+com/amazonaws/hbase/lambda/KafkaHandler.class

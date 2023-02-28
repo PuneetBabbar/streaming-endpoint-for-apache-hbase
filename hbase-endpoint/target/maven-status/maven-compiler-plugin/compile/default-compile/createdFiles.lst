@@ -1,0 +1,16 @@
+com/amazonaws/hbase/ConfigurationUtil.class
+com/amazonaws/hbase/serde/HBaseWALKeyDeserializer.class
+com/amazonaws/hbase/DataSinkFactory.class
+com/amazonaws/hbase/serde/HBaseWALEditDeserializer.class
+com/amazonaws/hbase/serde/HBaseWALEntryDeserializer.class
+com/amazonaws/hbase/DataSink.class
+com/amazonaws/hbase/serde/HBaseCellDeserializer.class
+com/amazonaws/hbase/model/HBaseWALKey.class
+com/amazonaws/hbase/StreamingReplicationEndpoint.class
+com/amazonaws/hbase/DataSinkFactory$Builder.class
+com/amazonaws/hbase/model/HBaseCell.class
+com/amazonaws/hbase/model/HBaseWALEdit.class
+com/amazonaws/hbase/CellUtil.class
+com/amazonaws/hbase/model/HBaseWALEntry.class
+com/amazonaws/hbase/UUIDHelper.class
+com/amazonaws/hbase/model/MVCCWALEntry.class
